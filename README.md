@@ -4,8 +4,8 @@ Project for learning React Native
 
 # Tecnologias
 
-** React Native **
-** Typescript **
+**React Native**
+**Typescript**
 
 ## Project Setup
 
