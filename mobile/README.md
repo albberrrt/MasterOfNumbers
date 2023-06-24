@@ -1,10 +1,25 @@
-# Super Calculadora 3000
+# Master Of Numbers
 
-## Passos para instalar:
+Project for learning React Native
 
-    Primeiramente, clone o projeto usando `git clone https://github.com/albberrrt/MasterOfNumbers`
+# Tecnologias
 
-### Aplicação Mobile:
+**React Native**
 
-    `cd mobile` para entrar na pasta _mobile_
-    `npm install` para instalar todos os packages!
+**Typescript**
+
+## Project Setup
+
+```
+cd mobile
+```
+
+### Install all packages
+```
+npm install
+```
+
+### Compile
+```
+npx expo start
+```
